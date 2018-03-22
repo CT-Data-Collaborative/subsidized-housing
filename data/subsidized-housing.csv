@@ -494,7 +494,7 @@
 "Connecticut","09",2014,"Number","Total Assisted Units",168655
 "Connecticut","09",2015,"Number","Total Assisted Units",172556
 "Connecticut","09",2016,"Number","Total Assisted Units",164998
-"Connecticut","09",2017,"Number","Total Assisted Units",163014
+"Connecticut","09",2017,"Number","Total Assisted Units",168576
 "Cornwall","0900517240",2002,"Number","Total Assisted Units",21
 "Cornwall","0900517240",2003,"Number","Total Assisted Units",19
 "Cornwall","0900517240",2004,"Number","Total Assisted Units",19
@@ -1022,7 +1022,7 @@
 "Hamden","0900935650",2014,"Number","Total Assisted Units",1929
 "Hamden","0900935650",2015,"Number","Total Assisted Units",1989
 "Hamden","0900935650",2016,"Number","Total Assisted Units",2006
-"Hamden",-6666,2017,"Number","Total Assisted Units",-6666
+"Hamden","0900935650",2017,"Number","Total Assisted Units",2056
 "Hampton","0901536000",2002,"Number","Total Assisted Units",20
 "Hampton","0901536000",2003,"Number","Total Assisted Units",19
 "Hampton","0901536000",2004,"Number","Total Assisted Units",17
@@ -1070,7 +1070,7 @@
 "Hartford County","09003",2014,"Number","Total Assisted Units",53351
 "Hartford County","09003",2015,"Number","Total Assisted Units",54471
 "Hartford County","09003",2016,"Number","Total Assisted Units",51504
-"Hartford County","09003",2017,"Number","Total Assisted Units",51592
+"Hartford County","09003",2017,"Number","Total Assisted Units",52270
 "Hartland","0900337140",2002,"Number","Total Assisted Units",20
 "Hartland","0900337140",2003,"Number","Total Assisted Units",16
 "Hartland","0900337140",2004,"Number","Total Assisted Units",3
@@ -1582,7 +1582,7 @@
 "New Haven County","09009",2014,"Number","Total Assisted Units",45148
 "New Haven County","09009",2015,"Number","Total Assisted Units",46311
 "New Haven County","09009",2016,"Number","Total Assisted Units",44476
-"New Haven County","09009",2017,"Number","Total Assisted Units",44048
+"New Haven County","09009",2017,"Number","Total Assisted Units",46104
 "Newington","0900352140",2002,"Number","Total Assisted Units",927
 "Newington","0900352140",2003,"Number","Total Assisted Units",821
 "Newington","0900352140",2004,"Number","Total Assisted Units",711
@@ -1630,7 +1630,7 @@
 "New London County","09011",2014,"Number","Total Assisted Units",13882
 "New London County","09011",2015,"Number","Total Assisted Units",14048
 "New London County","09011",2016,"Number","Total Assisted Units",13629
-"New London County","09011",2017,"Number","Total Assisted Units",13858
+"New London County","09011",2017,"Number","Total Assisted Units",13893
 "New Milford","0900552630",2002,"Number","Total Assisted Units",356
 "New Milford","0900552630",2003,"Number","Total Assisted Units",369
 "New Milford","0900552630",2004,"Number","Total Assisted Units",273
@@ -1742,7 +1742,7 @@
 "North Stonington","0901155500",2014,"Number","Total Assisted Units",24
 "North Stonington","0901155500",2015,"Number","Total Assisted Units",31
 "North Stonington","0901155500",2016,"Number","Total Assisted Units",34
-"North Stonington",-6666,2017,"Number","Total Assisted Units",-6666
+"North Stonington","0901155500",2017,"Number","Total Assisted Units",35
 "Norwalk","0900156060",2002,"Number","Total Assisted Units",4070
 "Norwalk","0900156060",2003,"Number","Total Assisted Units",3649
 "Norwalk","0900156060",2004,"Number","Total Assisted Units",3972
@@ -2222,7 +2222,7 @@
 "South Windsor","0900371390",2014,"Number","Total Assisted Units",715
 "South Windsor","0900371390",2015,"Number","Total Assisted Units",738
 "South Windsor","0900371390",2016,"Number","Total Assisted Units",662
-"South Windsor",-6666,2017,"Number","Total Assisted Units",-6666
+"South Windsor","0900371390",2017,"Number","Total Assisted Units",678
 "Sprague","0901171670",2002,"Number","Total Assisted Units",59
 "Sprague","0901171670",2003,"Number","Total Assisted Units",58
 "Sprague","0901171670",2004,"Number","Total Assisted Units",41
@@ -2734,7 +2734,7 @@
 "Windham","0901586790",2014,"Number","Total Assisted Units",2978
 "Windham","0901586790",2015,"Number","Total Assisted Units",2992
 "Windham","0901586790",2016,"Number","Total Assisted Units",2771
-"Windham",-6666,2017,"Number","Total Assisted Units",-6666
+"Windham","0901586790",2017,"Number","Total Assisted Units",2793
 "Windham County","09015",2002,"Number","Total Assisted Units",6502
 "Windham County","09015",2003,"Number","Total Assisted Units",6197
 "Windham County","09015",2004,"Number","Total Assisted Units",5475
@@ -2750,7 +2750,7 @@
 "Windham County","09015",2014,"Number","Total Assisted Units",7001
 "Windham County","09015",2015,"Number","Total Assisted Units",6761
 "Windham County","09015",2016,"Number","Total Assisted Units",6155
-"Windham County","09015",2017,"Number","Total Assisted Units",3337
+"Windham County","09015",2017,"Number","Total Assisted Units",6130
 "Windsor","0900387000",2002,"Number","Total Assisted Units",678
 "Windsor","0900387000",2003,"Number","Total Assisted Units",744
 "Windsor","0900387000",2004,"Number","Total Assisted Units",669
